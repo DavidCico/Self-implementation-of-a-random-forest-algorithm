@@ -47,7 +47,7 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 The different "<em>.py</em>" files need to be placed in the same folder for the main script to be run. The code is then ready to be used on the wheat seeds dataset and just requires running the following command:
 
-    python Wheat_seeds_study.py
+    python Sonar_case_study.py
 
 <p align="justify">The notebook can be <b>directly opened on GitHub</b>. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
 
