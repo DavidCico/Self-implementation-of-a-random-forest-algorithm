@@ -26,7 +26,7 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 ## File descriptions
 <ul>
     
-<li>The files "<em>wheat_seeds.csv</em>" corresponds to the dataset used in the notebook.</li>
+<li>The files "<em>sonar-all-data.csv</em>" and "<em>wheat_seeds.csv</em>" correspond to the dataset used in the notebook.</li>
     
 <li><p align="justify">"<em>Open_conversion_data.py</em>" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization. For more information on the different operations, the reader is referred to the Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Open_conversion_data.ipynb">Open_conversion_data.ipynb</a> where the different functions are more elaborated.</p></li>
     
