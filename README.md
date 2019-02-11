@@ -34,13 +34,13 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Performance_assessment.py</em>" is a Python script in which accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way. The Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Performance_assessment.ipynb">Performance_assessment.ipynb</a> is available for more details.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_model.py</em>" is the Python implementation of the backpropagation model for a classification problem, and following a stochastic gradient descent (SDG) approach.</p></li>
+<li><p align="justify">"<em>Tree_model_RF.py</em>" is the Python implementation of the Random Forest (RF) model for a classification problem, and following a Classification And Regression Trees (CART) approach.</p></li>
 
-<li><p align="justify">"<em>Wheat_seeds_study.py"</em> is the main Python script, calling the different functions from the scripts above, to perform a classification analysis of the wheat seeds, with the implemented backpropagation model.</p></li>
+<li><p align="justify">"<em>Sonar_case_study.py</em>" is the main Python script, calling the different functions from the scripts above, to perform a classification analysis of the sonar case, with the implemented random forest model. To change to the wheat seeds dataset, the user just needs to change the file in the <em>load_csv</em> function call.</p></li>
 
-<li><p align="justify">"<em>Wheat_seeds_study.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
+<li><p align="justify">"<em>Sonar_case_study.ipynb</em>" is the Jupyter notebook version of the "<em>.py</em>" script.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network, with application on the wheat seeds dataset.</p> 
+<li><p align="justify">"<em>Random_Forest_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a RF model, with application on the sonar dataset.</p> 
 </ul>
 
 ### Running the files
